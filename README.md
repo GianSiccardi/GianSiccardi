@@ -10,4 +10,10 @@
     💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 ---
 
-    
+    <h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,css,html,js,mysql,sqlite,,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+  </a>
+</p>
