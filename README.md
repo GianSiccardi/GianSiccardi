@@ -8,12 +8,12 @@
     🎓 Studying for a Bachelor's degree in Systems Engineering.
     💻 Passionate about creating efficient and scalable applications using Java, React, and modern web technologies.
     💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
----
 
-    <h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+
+##  
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,css,html,js,mysql,sqlite,,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,react,html,css,js,mysql,sqlite,,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,kubernetes,tailwindcss&perline=12" />
   </a>
 </p>
