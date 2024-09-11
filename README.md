@@ -14,6 +14,11 @@
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,html,css,js,mysql,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,kubernetes,tailwindcss,vite&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,react,html,css,js,mysql,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,kubernetes,tailwindcss,vite,figma&perline=12" />
   </a>
+</p>
+
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
