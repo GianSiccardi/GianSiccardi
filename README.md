@@ -14,7 +14,7 @@
 <h2 >Known technologies👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,html,css,js,mysql,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,kubernetes,tailwindcss,vite,figma&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,react,nextjs,spring,html,css,js,redux,mysql,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,kubernetes,tailwindcss,vite,figma&perline=12" />
   </a>
 </p>
 
